@@ -1,0 +1,5 @@
+<svg height='100px' width='100px'  fill="#3b82f6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;" viewBox="0 0 398 271" x="0px" y="0px" fill-rule="evenodd" clip-rule="evenodd"><defs><style type="text/css">
+   
+    .fil0 {fill:#3b82f6;fill-rule:nonzero}
+   
+  </style></defs><g><polygon class="fil0" points="398,16 294,110 398,246 "></polygon><path class="fil0" d="M20 0l139 125c12,10 26,15 40,15 14,0 28,-5 40,-15l139 -125 -358 0z"></path><polygon class="fil0" points="0,246 104,110 0,16 "></polygon><path class="fil0" d="M385 271l-110 -144 -19 17c-17,14 -37,22 -57,22 -20,0 -40,-8 -57,-22l-19 -17 -110 144 372 0z"></path></g></svg>
